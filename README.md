@@ -6,14 +6,27 @@ Anaconda Navigator (you can also do the same in Linux by going to your anaconda3
 
 Step-1: Open Anaconda Navigator by giving administrator priviledges, by right-clicking on the icon and selecting Run as administrator, and then clicking Yes in the security warning dialog box that follows.
 
+
+
 Step-2: Click on Environments from the side menu in Anaconda Navigator
+![Step 1](https://raw.githubusercontent.com/AniLeo-01/Creating-Environments-in-Anaconda-in-Windows/main/Step-1.JPG)
+
+
 
 Step-3: In the Environment list, select Create in the bottom tab.
+![Step 2](https://raw.githubusercontent.com/AniLeo-01/Creating-Environments-in-Anaconda-in-Windows/main/Step-2.JPG)
 
-Step-4: In the Name section give the name of your environment and in the Packages section select Python and from the drop-down menu select the Python version (it is notable to say
-        if you want to work on notebook with Python 2.x then this is the way to do). If you want to work in a R project then select R. Usually both are not needed at the same             time.
+
+Step-4: In the Name section give the name of your environment and in the Packages section select Python and from the drop-down menu select the Python version (it is notable to say if you want to work on notebook with Python 2.x then this is the way to do). If you want to work in a R project then select R. Usually both are not needed at the same    time.
+
+![Step 3](https://raw.githubusercontent.com/AniLeo-01/Creating-Environments-in-Anaconda-in-Windows/main/Step-3.JPG)
+
         
 Step-5: Now select your environment from the environment list and click on the arrow beside it. Select Open Terminal from the menu.
+
+![Step 4](https://raw.githubusercontent.com/AniLeo-01/Creating-Environments-in-Anaconda-in-Windows/main/Step-4.JPG)
+
+![Step 5](https://raw.githubusercontent.com/AniLeo-01/Creating-Environments-in-Anaconda-in-Windows/main/Step-5.JPG)
 
 Step-6: Import the packages you want to work with in your project (usually by using pip, you can find yours in https://pypi.org/)
 
